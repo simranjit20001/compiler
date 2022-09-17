@@ -1,2 +1,2 @@
 # compiler
-A compiler from a subset of C language that includes if statemens, consts, and variables (only int type), print statements, while, for and do while statements.
+A compiler of a subset of C that includes if statemens, consts, and variables (only integers currently), print statements, while, for and do while statements.
